@@ -1,0 +1,60 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.c-customers:before {
+    background: #0eb58a!important;
+}
+
+.c-custom:before {
+    background: #8199af!important;
+}
+
+.c-webcart:before {
+    background: #04844b!important;
+}
+
+.c-messaging_conversation:before {
+    background: #34becd!important;
+}
+
+.c-store:before {
+    background: #04844b!important;
+}
+
+.c-app:before {
+    background: #fcb95b!important;
+}
+
+.c-avatar:before {
+    background: #62b7ed!important;
+}
+
+.c-work_order:before {
+    background: #50e3c2!important;
+}
+
+.c-address:before {
+    background: #4bc076!important;
+}
+
+.c-lead:before {
+    background: #f88962!important;
+}
+
+.c-product_consumed:before {
+    background: #55bc9c!important;
+}
+
+.c-unmatched:before {
+    background: #62b7ed!important;
+}
